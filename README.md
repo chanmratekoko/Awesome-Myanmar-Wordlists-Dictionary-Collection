@@ -14,4 +14,6 @@ Myanmar (Burmese) Wordlists Dictionary Collection for word segmentation, line br
 
 [dangerchitthu](https://github.com/dangerchitthu/myanmar-karen-word-lists)
 
-[Swan Htet](https://github.com/swanhtet1992/myanmar-data/blob/master/stop_words.txt)
+~~[Swan Htet](https://github.com/swanhtet1992/myanmar-data/blob/master/stop_words.txt)~~
+
+[myanmartools](https://github.com/myanmartools/myanmar-words)
